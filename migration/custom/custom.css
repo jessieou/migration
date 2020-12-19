@@ -1,0 +1,60 @@
+/*Sample CSS file*/
+
+/* Title */
+h1.title {
+  color: #2a9df4;
+  font-size:40px;
+  font-weight: bold;
+}
+/* Level 1 header */
+h1 {
+  color: #2a9df4;
+  font-weight: bold;
+}
+/* Level 2 header */
+h2 {
+  color: #187bcd;
+  font-weight: bold;
+}
+/* Level 3 header */
+h3 {
+  color: #1167b1;
+  font-weight: bold;
+}
+
+h4 {
+  color: #2a9df4;
+  font-size:20px;;
+}
+
+h5 {
+  font-size:16px;
+}
+
+h6 {
+  font-size:14px;
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+/* Table of contents */
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #EF3B24;
+    border-color: #337ab7;
+}
+/* Background highlight */
+div.bkgemph { 
+  background-color:#e6f0ff; border-radius: 5px; padding: 20px;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+/* Navigation pills */
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #4C6A92;
+}

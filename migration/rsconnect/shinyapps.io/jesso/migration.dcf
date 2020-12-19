@@ -1,0 +1,12 @@
+name: migration
+title: migration
+username:
+account: jesso
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2491583
+bundleId: 3309871
+url: https://jesso.shinyapps.io/migration/
+when: 1592980549.16529
+asMultiple: FALSE
+asStatic: FALSE

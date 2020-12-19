@@ -1,0 +1,191 @@
+"year","migration_type","northeast","midwest","south","west"
+2019,"Inmigrants",327,550,880,595
+2019,"Outmigrants",565,533,617,636
+2019,"Net internal migration",-238,17,263,-41
+2019,"Movers from abroad",205,130,447,356
+2019,"Net migration (including abroad)",-34,147,709,315
+2018,"Inmigrants",243,518,1227,566
+2018,"Outmigrants",595,555,714,689
+2018,"Net internal migration",-352,-38,512,-122
+2018,"Movers from abroad",229,156,446,335
+2018,"Net migration (including abroad)",-124,118,959,212
+2017,"Inmigrants",405,544,1050,696
+2017,"Outmigrants",606,569,1006,515
+2017,"Net internal migration",-200,-25,44,181
+2017,"Movers from abroad",223,150,504,379
+2017,"Net migration (including abroad)",23,125,548,560
+2016,"Inmigrants",337,442,940,719
+2016,"Outmigrants",553,513,901,472
+2016,"Net internal migration",-216,-71,39,247
+2016,"Movers from abroad",266,163,497,355
+2016,"Net migration (including abroad)",50,92,536,602
+2015,"Inmigrants",403,463,1010,562
+2015,"Outmigrants",504,575,740,620
+2015,"Net internal migration",-101,-112,271,-57
+2015,"Movers from abroad",314,357,589,413
+2015,"Net migration (including abroad)",213,245,860,356
+2014,"Inmigrants",374,564,941,580
+2014,"Outmigrants",469,566,755,670
+2014,"Net internal migration",-94,-2,186,-90
+2014,"Movers from abroad",233,142,447,311
+2014,"Net migration (including abroad)",139,140,633,221
+2013,"Inmigrants",234,526,1102,586
+2013,"Outmigrants",399,707,720,621
+2013,"Net internal migration",-165,-182,382,-36
+2013,"Movers from abroad",130,210,400,296
+2013,"Net migration (including abroad)",-35,28,782,260
+2012,"Inmigrants",273,563,1064,839
+2012,"Outmigrants",598,663,901,579
+2012,"Net internal migration",-324,-99,164,260
+2012,"Movers from abroad",316,126,349,363
+2012,"Net migration (including abroad)",-8,27,513,623
+2011,"Inmigrants",247,537,1056,616
+2011,"Outmigrants",524,493,831,608
+2011,"Net internal migration",-277,43,225,9
+2011,"Movers from abroad",189,172,379,319
+2011,"Net migration (including abroad)",-88,215,604,328
+2010,"Inmigrants",246,414,897,631
+2010,"Outmigrants",376,637,698,478
+2010,"Net internal migration",-130,-223,200,153
+2010,"Movers from abroad",134,106,388,317
+2010,"Net migration (including abroad)",4,-117,588,470
+2009,"Inmigrants",236,466,738,478
+2009,"Outmigrants",368,529,591,431
+2009,"Net internal migration",-132,-62,147,47
+2009,"Movers from abroad",184,201,396,306
+2009,"Net migration (including abroad)",52,139,543,353
+2008,"Inmigrants",409,464,1038,569
+2008,"Outmigrants",531,560,773,614
+2008,"Net internal migration",-123,-97,265,-45
+2008,"Movers from abroad",162,242,344,398
+2008,"Net migration (including abroad)",39,145,609,352
+2007,"Inmigrants",313,588,1032,515
+2007,"Outmigrants",594,528,725,601
+2007,"Net internal migration",-281,60,307,-86
+2007,"Movers from abroad",218,178,458,336
+2007,"Net migration (including abroad)",-63,238,765,250
+2006,"Inmigrants",328,568,1197,648
+2006,"Outmigrants",609,702,894,536
+2006,"Net internal migration",-281,-134,303,112
+2006,"Movers from abroad",199,176,538,383
+2006,"Net migration (including abroad)",-81,42,841,495
+2005,"Inmigrants",362,679,1335,718
+2005,"Outmigrants",774,758,907,655
+2005,"Net internal migration",-411,-79,428,63
+2005,"Movers from abroad",323,259,685,597
+2005,"Net migration (including abroad)",-88,180,1113,660
+2004,"Inmigrants",426,559,1163,500
+2004,"Outmigrants",640,670,744,593
+2004,"Net internal migration",-215,-111,419,-93
+2004,"Movers from abroad",205,203,455,410
+2004,"Net migration (including abroad)",-10,92,874,317
+2003,"Inmigrants",385,575,1016,719
+2003,"Outmigrants",484,675,892,644
+2003,"Net internal migration",-99,-100,124,75
+2003,"Movers from abroad",161,179,550,380
+2003,"Net migration (including abroad)",62,79,674,455
+2002,"Inmigrants",445,530,1282,717
+2002,"Outmigrants",665,755,889,665
+2002,"Net internal migration",-220,-225,392,52
+2002,"Movers from abroad",269,158,553,583
+2002,"Net migration (including abroad)",49,-67,945,635
+2001,"Inmigrants",483,522,865,606
+2001,"Outmigrants",379,624,862,611
+2001,"Net internal migration",104,-101,3,-6
+2001,"Movers from abroad",337,254,600,565
+2001,"Net migration (including abroad)",441,153,603,559
+2000,"Inmigrants",363,722,1258,763
+2000,"Outmigrants",615,640,1031,820
+2000,"Net internal migration",-252,82,227,-57
+2000,"Movers from abroad",292,238,612,604
+2000,"Net migration (including abroad)",40,320,839,547
+1999,"Inmigrants",461,735,1339,743
+1999,"Outmigrants",624,907,1068,679
+1999,"Net internal migration",-163,-171,271,63
+1999,"Movers from abroad",198,221,544,466
+1999,"Net migration (including abroad)",35,50,815,530
+1998,"Inmigrants",504,873,1335,660
+1998,"Outmigrants",708,753,1105,806
+1998,"Net internal migration",-203,120,230,-146
+1998,"Movers from abroad",247,170,416,370
+1998,"Net migration (including abroad)",43,290,646,224
+1997,"Inmigrants",481,661,1338,688
+1997,"Outmigrants",600,814,947,806
+1997,"Net internal migration",-119,-154,391,-118
+1997,"Movers from abroad",239,169,445,450
+1997,"Net migration (including abroad)",120,15,836,332
+1996,"Inmigrants",441,842,1284,792
+1996,"Outmigrants",675,775,1134,775
+1996,"Net internal migration",-234,68,150,16
+1996,"Movers from abroad",285,130,470,476
+1996,"Net migration (including abroad)",51,198,620,492
+1994,"Inmigrants",348,706,1336,746
+1994,"Outmigrants",676,737,960,763
+1994,"Net internal migration",-328,-31,376,-17
+1994,"Movers from abroad",267,132,451,396
+1994,"Net migration (including abroad)",-61,101,827,379
+1993,"Inmigrants",313,841,1145,769
+1993,"Outmigrants",647,608,1044,770
+1993,"Net internal migration",-334,233,101,-1
+1993,"Movers from abroad",230,198,513,364
+1993,"Net migration (including abroad)",-104,431,614,363
+1992,"Inmigrants",409,816,1305,755
+1992,"Outmigrants",701,878,1081,626
+1992,"Net internal migration",-292,-62,224,129
+1992,"Movers from abroad",255,175,383,442
+1992,"Net migration (including abroad)",-37,113,607,571
+1991,"Inmigrants",346,782,1421,835
+1991,"Outmigrants",932,797,987,668
+1991,"Net internal migration",-585,-15,433,167
+1991,"Movers from abroad",209,208,351,617
+1991,"Net migration (including abroad)",-376,193,784,784
+1990,"Inmigrants",461,908,1428,964
+1990,"Outmigrants",758,1024,1198,781
+1990,"Net internal migration",-297,-116,230,183
+1990,"Movers from abroad",328,169,500,562
+1990,"Net migration (including abroad)",31,53,730,745
+1989,"Inmigrants",370,777,1318,791
+1989,"Outmigrants",714,703,1071,768
+1989,"Net internal migration",-344,74,247,23
+1989,"Movers from abroad",292,170,375,629
+1989,"Net migration (including abroad)",-52,244,622,652
+1988,"Inmigrants",430,715,1338,613
+1988,"Outmigrants",671,818,886,721
+1988,"Net internal migration",-241,-103,452,-108
+1988,"Movers from abroad",261,146,414,379
+1988,"Net migration (including abroad)",20,43,866,271
+1987,"Inmigrants",398,858,1374,916
+1987,"Outmigrants",732,969,1095,750
+1987,"Net internal migration",-334,-111,279,166
+1987,"Movers from abroad",214,193,277,458
+1987,"Net migration (including abroad)",-120,82,556,624
+1986,"Inmigrants",502,1011,1355,910
+1986,"Outmigrants",752,996,1320,710
+1986,"Net internal migration",-250,15,35,200
+1986,"Movers from abroad",198,158,342,502
+1986,"Net migration (including abroad)",-52,173,377,702
+1985,"Inmigrants",482,842,1329,994
+1985,"Outmigrants",691,1053,1169,734
+1985,"Net internal migration",-209,-211,160,260
+1985,"Movers from abroad",228,168,532,499
+1985,"Net migration (including abroad)",19,-43,692,759
+1984,"Inmigrants",487,820,1399,834
+1984,"Outmigrants",578,1102,973,887
+1984,"Net internal migration",-91,-282,426,-53
+1984,"Movers from abroad",213,141,383,341
+1984,"Net migration (including abroad)",122,-141,809,288
+1983,"Inmigrants",439,661,1211,880
+1983,"Outmigrants",625,947,973,645
+1983,"Net internal migration",-186,-286,238,235
+1983,"Movers from abroad",192,149,323,315
+1983,"Net migration (including abroad)",6,-137,561,550
+1982,"Inmigrants",473,793,1482,931
+1982,"Outmigrants",685,1163,1012,819
+1982,"Net internal migration",-212,-370,470,112
+1982,"Movers from abroad",229,134,401,324
+1982,"Net migration (including abroad)",17,-236,871,436
+1981,"Inmigrants",464,650,1377,871
+1981,"Outmigrants",706,1056,890,710
+1981,"Net internal migration",-242,-406,487,161
+1981,"Movers from abroad",207,180,412,514
+1981,"Net migration (including abroad)",-35,-226,899,675

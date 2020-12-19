@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<div class="container-fluid">
+  <center> 
+  <header>
+  <h1>US Migration Explorer</h1>
+  <h1>- An interactive web app for exploring US migration data - </h1>
+</header>
+  <hr>
+ </center>
+  <h2>About Data</h2>
+ 
+    <p> 
+    The data used comes from searchable tables provided by the <a href="https://www.census.gov/data.html">US Census Bureau</a>, which collects data about every resident in the United States every 10 years. According to <a href="https://www.census.gov/programs-surveys/decennial-census/2020-census/about.html#:~:text=It%20is%20mandated%20by%20Article,federal%20funds%20to%20local%20communities.">census</a>,</p>
+    <blockquote cite="https://www.census.gov/programs-surveys/decennial-census/2020-census/about.html#:~:text=It%20is%20mandated%20by%20Article,federal%20funds%20to%20local%20communities.">the data collected by the census "determines the number of seats each state has in the U.S. House of Representatives (a process called apportionment) and is also used to distribute billions in federal funds to local communities."</blockquote>
+    <p>
+    For such important aforementioned reasons, take the <a href="https://2020census.gov/">2020 census</a> today! 
+    </p>
+    
+    <p> Growing up, I moved countries and cities, and in the process, I have become very interested in internal and international migration patterns. I'm interested in where people move to and from, and their motivations for doing so. Using the <a href="https://www.census.gov/data/tables/time-series/demo/geographic-mobility/historic.html">Census Bureau Current Population Survey (CPS) historic Migration/geographic Mobility Tables</a>, internal migration trends from 1980s to 2019 are available by year. 
+    </p>
+      
+  <h4>Net Migration</h4>
+    <p> The US annual net migration data comes from U.S. Census Bureau, Current Population Survey, Annual Social and Economic Supplement 1981-2019. You can <a href="https://www2.census.gov/programs-surveys/demo/tables/geographic-mobility/time-series/historic/tab-a-2.xls" download>download the table "Table A-2. Annual Inmigration, Outmigration, Net Migration, and Movers from Abroad for Regions: 1981-2019"</a> as an Excel file. The data contains the annual inmigation, outmigration, net migration, and movers from abroad from 1981-2019 for 4 main US regions: west, northeast, midwest, and south. Note that movers from Puerto Rico and the United States Island Areas are counted as movers from abroad. 
+    </p>
+
+  
+  <h4>Reason for Move</h4>
+  <p> The reason for move data comes from the same source. The table can be downloaded <a href="https://www2.census.gov/programs-surveys/demo/tables/geographic-mobility/time-series/historic/tab-a-5.xls" download>"Table A-5. Reason for Move (Specific Categories): 1999-2019"</a> as an Excel file. The dat contains the annual number of movers who move for specific reasons, categorized under 4 main categories: family-related reasons, housing-related reasons, employment-related reasons, and other reasons, from 1999-2019.
+  </p>
+  
+  <hr> 
+  
+
+  <h2>About App</h2>
+
+  <p> This interactive dashboard built with Shiny Dashboard in R allows you to explore migration in the US. There are 2 main pages: "Net Migration" and "Reason for Move". The "Net Migration" tab provides an overall timeline of migration trends, as well as the distribution of net population flows by migration type and by region. It allows you to select region(s), the type(s) of migration, and the year to visualize and explore the net migration data. The "Reason for Move" tab provides interactive views of people's reasons to move. You can view the propotion of each aggregate reason by year, as well as the subcategories under each reason for a more closeup look.
+  </p>
+  
+  <hr>
+  <p>
+    View Source Code on <a href="https://github.com/sta323-523-su20/project-jessieou">GitHub</a>
+  </p>
+  
+  <hr>
+  <hr>
+  
+  <img class="center" src="https://reimaginingmigration.org/wp-content/uploads/2017/08/refugeesyelloworangeillustration-1024x630.jpg" alt="Story of human migration" style="width:400px;height:400px;">
+  
+
+</div>
+</html>
